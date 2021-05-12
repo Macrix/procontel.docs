@@ -2,7 +2,7 @@
 Title: "ProconTEL SDK"
 Weight: 8
 Description: >
-  Learn how to use the ProconTEL SDK2
+  Learn how to use the ProconTEL SDK
 ---
 
 ## Table of Contents

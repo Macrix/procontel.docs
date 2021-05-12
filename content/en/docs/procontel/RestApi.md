@@ -1,11 +1,9 @@
 ---
-Title: "REST API configuration"
+Title: "REST API"
 Weight: 8
 Description: >
   Learn how to use the REST API configuration
 ---
-
-# REST API
 
 ## Introduction
 

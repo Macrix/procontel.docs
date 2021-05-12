@@ -2,10 +2,8 @@
 Title: "ProconTEL CLI"
 Weight: 8
 Description: >
-  Learn how to use the ProconTEL CLI
+  Use the ProconTelCli.exe command line
 ---
-
-# Use the ProconTelCli.exe command line
 
 ## Table of Contents
 
