@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Home"
+title = "Start"
 
 enableRobotsTXT = true
 
@@ -53,7 +53,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Home"
+title = "Start"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
@@ -141,7 +141,7 @@ footer_about_disable = false
 
 [menu]
   [[menu.main]]
-    name = "ArconQ"
+    name = "Homepage"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "https://arconq.com/"
