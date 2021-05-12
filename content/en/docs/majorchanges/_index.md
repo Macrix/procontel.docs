@@ -1,12 +1,12 @@
 ---
 title: "Major Changes"
 linkTitle: "Major Changes"
-weight: 2
+weight: 8
 description: >
   Major Changes in the ProconTEL
 ---
 
-## Try it out!
+## Major Changes
 
-Some main interesting content ...
+TODO: fill the content of major changes
 

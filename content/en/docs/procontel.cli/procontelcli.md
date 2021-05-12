@@ -5,8 +5,6 @@ Description: >
   Learn how to use the ProconTEL CLI
 ---
 
-[Edit this page](https://github.com/Macrix/procontel.cli/blob/main/README.md)
-
 # Use the ProconTelCli.exe command line
 
 ## Table of Contents

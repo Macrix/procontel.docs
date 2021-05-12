@@ -1,12 +1,12 @@
 ---
 title: "Knowledge Base"
 linkTitle: "Knowledge Base"
-weight: 2
+weight: 8
 description: >
   Lear about ProconTEL
 ---
 
-## Try it out!
+## Knowledge Base
 
-Some main interesting content ...
+TODO: fill the content of knowledge base
 

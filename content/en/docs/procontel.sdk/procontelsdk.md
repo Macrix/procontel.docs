@@ -5,8 +5,6 @@ Description: >
   Learn how to use the ProconTEL SDK2
 ---
 
-[Edit this page](https://github.com/Macrix/procontel.sdk/blob/master/README.md)
-
 ## Table of Contents
 
 1. [Quick introduction](#id-quick-introduction)
