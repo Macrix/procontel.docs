@@ -100,19 +100,19 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://github.com/LecKli/docsytest4"
+url_latest_version = "https://github.com/Macrix/procontel.docs"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/LecKli/docsytest4"
+github_repo = "https://github.com/Macrix/procontel.docs"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/LecKli/docsytest4"
+github_project_repo = "https://github.com/Macrix/procontel.docs"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
-github_branch= "main"
+github_branch= "master"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 gcs_engine_id = "d72aa9b2712488cc3"
@@ -161,9 +161,9 @@ enable = false
 	name ="Twitter"
 	url = "https://example.org/twitter"
 	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
+        desc = "Follow us on LinkedIn"
 [[params.links.user]]
-	name = "Stack Overflow"
+	name = "GitHub link"
 	url = "https://example.org/stack"
 	icon = "fab fa-stack-overflow"
         desc = "Practical questions and curated answers"
