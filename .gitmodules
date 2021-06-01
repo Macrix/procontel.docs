@@ -1,3 +1,9 @@
 [submodule "content/en/docs/procontel.sdk"]
 	path = content/en/docs/procontel.sdk
 	url = https://github.com/Macrix/procontel.sdk.git
+[submodule "content/en/docs/procontel.cli"]
+	path = content/en/docs/procontel.cli
+	url = https://github.com/Macrix/procontel.cli.git
+[submodule "content/en/docs/procontelRest"]
+	path = content/en/docs/procontelRest
+	url = https://github.com/Macrix/procontel.git
