@@ -131,11 +131,11 @@ prism_syntax_highlighting = false
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = false
+breadcrumb_disable = true
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
-navbar_logo = true
+navbar_logo = false
 # Set to true to disable the About link in the site footer
 footer_about_disable = false
 
@@ -161,7 +161,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
-enable = true
+enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
