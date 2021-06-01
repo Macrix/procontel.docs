@@ -4,3 +4,6 @@
 [submodule "content/en/docs/procontel.cli"]
 	path = content/en/docs/procontel.cli
 	url = https://github.com/Macrix/procontel.cli.git
+[submodule "content/en/docs/procontel"]
+	path = content/en/docs/procontel
+	url = https://github.com/Macrix/procontel.git
