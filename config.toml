@@ -1,5 +1,4 @@
 baseURL = "/"
-title = "Start"
 
 enableRobotsTXT = true
 
@@ -53,13 +52,13 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Start"
-description = "A Docsy example site"
+#title = "Start"
+#description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
-weight = 1
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
+# weight = 1
+#time_format_default = "01.01.2006"
+#time_format_blog = "01.01.2006"
 
 [markup]
   [markup.goldmark]
@@ -139,13 +138,16 @@ navbar_logo = true
 # Set to true to disable the About link in the site footer
 footer_about_disable = false
 
-[menu]
-  [[menu.main]]
-    name = "Homepage"
+#  Links in main menu
+ [menu]
+   [[menu.main]]
+    name = "About"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "https://arconq.com/"
+    url = "https://arconq.com/produkte-arconq/"
     weight = -100
+
+
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
